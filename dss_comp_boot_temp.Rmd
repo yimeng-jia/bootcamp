@@ -1,6 +1,6 @@
 ---
 title: "DSS Computing Bootcamp Template"
-author: "Mine Cetinkaya-Rundel"
+author: "YJ"
 date: "8/26/2016"
 output: html_document
 ---
